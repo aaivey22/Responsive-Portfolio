@@ -1,8 +1,29 @@
+body{
+    background-image: url(../../assets/images/papyrus.png);
+}
 
-
-nav{
+nav {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
+    background-color: white;
+}
+
+
+h1 {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 30px 30px;
+    line-height: 25px;
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 25px;
+    border-width: 0px 0px 2px 0px;
+    border-style: solid;
+    border-color: #777777;
 }
 
 img {
@@ -17,7 +38,7 @@ footer {
     color: #777777;
     width: 100%;
     margin-top: 15%;
-    padding-top: 25px;
+    padding: 25px 0PX;
     color: white;
     background-color: #777777;
     text-align: center;
