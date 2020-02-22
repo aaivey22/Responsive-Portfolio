@@ -27,11 +27,22 @@ h2 {
     margin: 5% 0;
 }
 
+h5 {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+    padding: 5% 0;
+}
+
 #spacer {
     padding: 2%;
 }
 
 #aboutMe {
+    background-color: white;
+}
+
+#portfolio {
     background-color: white;
 }
 
@@ -54,4 +65,8 @@ footer {
     border-width: 5px 0px 0px 0px;
     border-style: solid;
     border-color: #4aaaa5;
+}
+
+#nameCard {
+    background-color: white;
 }
