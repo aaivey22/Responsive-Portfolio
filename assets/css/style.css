@@ -49,8 +49,16 @@ h5 {
 img {
     transform: rotate(180deg);
     height: 267px;
-    float: left;
     padding-left: 25px;
+}
+
+#nameCard img {
+    padding: 0;
+    background-color: white;
+}
+
+#nameCard {
+    background-color: white;
 }
 
 footer {
@@ -65,8 +73,4 @@ footer {
     border-width: 5px 0px 0px 0px;
     border-style: solid;
     border-color: #4aaaa5;
-}
-
-#nameCard {
-    background-color: white;
 }
