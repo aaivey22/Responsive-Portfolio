@@ -48,7 +48,7 @@ h5 {
 }
 
 img {
-    transform: rotate(180deg);
+    /* transform: rotate(180deg); */
     height: 267px;
     padding-left: 25px;
 }
