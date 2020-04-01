@@ -24,7 +24,6 @@ h2 {
     border-width: 0px 0px 2px 0px;
     border-style: solid;
     border-color: #777777;
-    margin: 5% 0;
 }
 
 h5 {
@@ -32,11 +31,6 @@ h5 {
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;   
     padding: 5% 0;
-}
-
-.containerPadding {
-    margin-top: 5%;
-    padding: 2%
 }
 
 #aboutMe {
@@ -47,14 +41,7 @@ h5 {
     background-color: white;
 }
 
-img {
-    /* transform: rotate(180deg); */
-    height: 267px;
-    padding-left: 25px;
-}
-
 #nameCard img {
-    padding: 0;
     background-color: white;
 }
 
@@ -64,7 +51,6 @@ img {
 
 .form {
     background-color: white;
-    padding: 10%;
 }
 
 footer {
@@ -76,5 +62,6 @@ footer {
     border-width: 5px 0px 0px 0px;
     border-style: solid;
     border-color: #4aaaa5;
+    position: relative;
 }
 
